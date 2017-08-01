@@ -1,0 +1,30 @@
+@import 'reset-css';
+
+a {
+  text-decoration: none;
+
+  &:focus {
+    outline: 0;
+  }
+
+  img {
+    vertical-align: bottom;
+  }
+}
+
+img {
+  height: auto;
+  max-width: 100%;
+}
+
+input,
+select,
+textarea {
+  appearance: none;
+  border: 0;
+  border-radius: 0;
+
+  &:focus {
+    outline: 0;
+  }
+}

@@ -1,0 +1,24 @@
+/*!
+Theme Name: Blank Wordpress Theme
+Theme URI: https://github.com/DesignImage/blank-theme
+Author: Design Image
+Author URI: https://github.com/DesignImage
+Description: Blank theme by Design Image
+Version: 1.0.0
+*/
+
+
+@import 'settings/variables';
+
+@import 'globals/reset';
+@import 'globals/bootstrap';
+@import 'globals/font-awesome';
+@import 'globals/animations';
+@import 'globals/owl.carousel';
+
+
+@import 'tools/mixins';
+
+@import 'elements/base';
+
+@import 'components/wysiwyg';

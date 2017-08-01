@@ -1,0 +1,27 @@
+{
+  "name": "blank-wordpress-bootstrap",
+  "version": "1.0.0",
+  "description": "A blank bootstrap wordpress install using GULP",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DesignImage/bootstrap-wordpress-theme.git"
+  },
+  "author": "Wesley Brown",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/DesignImage/bootstrap-wordpress-theme/issues"
+  },
+  "homepage": "https://github.com/DesignImage/bootstrap-wordpress-theme.git#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-cache": "^0.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-uglify": "^1.5.4",
+    "reset-css": "^2.2.0",
+    "sass-module-importer": "^1.4.0",
+    "wordpress-core-css": "github:DesignImage/wordpress-core-css"
+  }
+}

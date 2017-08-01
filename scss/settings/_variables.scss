@@ -1,0 +1,26 @@
+// Fonts
+$_standard-font-family: 'Lato', sans-serif;
+
+// Colours
+$_color-white: #fff;
+$_color-iron: #c7c9cb;
+$_color-nero: #252525;
+$_color-flush-mahogany: #d03f46;
+$_color-well-read: #b12b32;
+$_color-brown: #a4262d;
+$_color-merlot: #82191e;
+$_color-rosewood: #64080c;
+$_color-paco: #360d0f;
+
+// Globals
+$transition-timing: .3s;
+$transition-delay: .5s;
+$default-animation-timing: 1s;
+
+// Base
+$body-font-stack: $_standard-font-family;
+$body-background-color: $_color-white;
+$body-color: $_color-nero;
+
+// Defaults
+$default-link-color: $_color-well-read;
